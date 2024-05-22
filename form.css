@@ -1,0 +1,15 @@
+.btn {
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px; 
+}
+
+.back {
+    background-color: #ffabab;
+    color: white;
+    text-decoration: none;
+    width: 100px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
